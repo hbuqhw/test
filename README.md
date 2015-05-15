@@ -13,4 +13,4 @@
 4. 有序列表
 
 #####链接
-this is an link [百度](baidu.com)
+this is an link [百度](http://www.baidu.com)
