@@ -24,10 +24,10 @@ this is an link [百度](http://www.baidu.com)
 已经完成了第一次提交  
 这是第二次提交
 
-~
+·
 if(1==1) {
   systom.out.printl("第一行代码");
 }else {
   systom.out.printl("第二行代码");
 }
-~
+·
