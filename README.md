@@ -18,4 +18,4 @@ this is an link [百度](http://www.baidu.com)
 
 ----
 #####图片
-![alt text](http://beian.gein.cn/assets/images/aliyun.png "Title")
+![alt text](图片地址 "Title")
