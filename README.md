@@ -38,3 +38,6 @@ this is an link [百度](http://www.baidu.com)
 | zebra stripes | are neat      |    $1 |
 
 修复了一个bug
+
+
+[git doc](http://gitref.org/zh/creating/)
